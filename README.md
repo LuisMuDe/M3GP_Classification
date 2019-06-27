@@ -10,5 +10,5 @@ http://gplab.sourceforge.net
 
 Sample code in startClassification.m 
 
-All other settings on RunM3GP.m
+All other settings in RunM3GP.m
 
